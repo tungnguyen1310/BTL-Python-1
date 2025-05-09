@@ -1,0 +1,88 @@
+# Pl: vs Southampton
+Age: vs Chelsea
+Poss: vs Ipswich Town
+MP: vs Arsenal
+Starts: vs Arsenal
+Min: vs Arsenal
+90s: vs Arsenal
+PK: Liverpool
+PKatt: vs Southampton
+CrdY: vs Aston Villa
+CrdR: vs Brighton
+PrgC: vs Nott'ham Forest
+PrgP: vs Nott'ham Forest
+G+A-PK: vs Southampton
+xG+xAG: vs Southampton
+GA: Southampton
+GA90: Southampton
+SoTA: Southampton
+Saves: Southampton
+W: Liverpool
+D: Everton
+L: Southampton
+CS: Liverpool
+CS%: Liverpool
+PKA: Brighton
+PKsv: Everton
+PKm: Arsenal
+Gls: Liverpool
+Sh: Liverpool
+SoT: Liverpool
+SoT%: Brentford
+Sh/90: Liverpool
+SoT/90: Liverpool
+G/Sh: Brentford
+G/SoT: Newcastle Utd
+Dist: Wolves
+FK: Brighton
+xG: Liverpool
+npxG: Liverpool
+npxG/Sh: Brentford
+G-xG: Nott'ham Forest
+np:G-xG: Nott'ham Forest
+TotDist: Manchester City
+PrgDist: Liverpool
+Ast: Liverpool
+xAG: Liverpool
+xA: Liverpool
+A-xAG: Arsenal
+KP: Liverpool
+1/3: Manchester City
+PPA: Arsenal
+CrsPA: Fulham
+SCA: vs Southampton
+SCA90: vs Southampton
+GCA: vs Southampton
+GCA90: vs Southampton
+Touches: vs Ipswich Town
+Def Pen: vs Liverpool
+Def 3rd: vs Brighton
+Mid 3rd: vs Crystal Palace
+Att 3rd: vs Ipswich Town
+Att Pen: vs Brentford
+Live: vs Ipswich Town
+Att: vs Wolves
+Succ: vs Leicester City
+Succ%: vs Bournemouth
+Tkld: vs Manchester Utd
+Tkld%: vs Manchester Utd
+Carries: vs Ipswich Town
+CPA: vs Brentford
+Mis: vs Bournemouth
+Dis: vs Crystal Palace
+Rec: vs Ipswich Town
+PrgR: vs Nott'ham Forest
+2CrdY: vs Brighton
+Fls: vs Tottenham
+Fld: vs Bournemouth
+Off: vs Liverpool
+Crs: vs Nott'ham Forest
+Int: vs Tottenham
+TklW: vs Tottenham
+PKwon: vs Wolves
+PKcon: vs Liverpool
+OG: vs Chelsea
+Recov: vs Crystal Palace
+Won: vs Crystal Palace
+Lost: vs Brentford
+Won%: vs Crystal Palace
